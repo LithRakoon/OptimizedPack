@@ -1,0 +1,12 @@
+name = "Optimized Pack"
+author = "Lith"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a2f98bba67bd3739e869717541b03aa9155f36db3e5eb069e20ad0ce8833fefe"
+
+[versions]
+fabric = "0.11.6"
+minecraft = "1.17.1"
