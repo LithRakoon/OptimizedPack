@@ -11,6 +11,11 @@ hash = "1afa917d3c7008ddac3ee45d64647d9b479c1f9c1f7a604b30adf63fee542c0c"
 metafile = true
 
 [[files]]
+file = "mods/clear-skies.toml"
+hash = "5717ab344e0fdeff258e2c3fa6a1421412b7bd70c32d224b4bedbde266e15de0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
 metafile = true
