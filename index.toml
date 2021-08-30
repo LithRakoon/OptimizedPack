@@ -1,8 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/capes.toml"
+hash = "3adc9339abe9872d3d0a7b2098f7efd1679203c204d06f4c34488a488a3d8215"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.toml"
 hash = "1afa917d3c7008ddac3ee45d64647d9b479c1f9c1f7a604b30adf63fee542c0c"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.toml"
+hash = "e9d8579b5f5bbada114982ea16c3f9b8f604d3875f1551752d3146cd726aa2ff"
 metafile = true
 
 [[files]]
@@ -23,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.toml"
 hash = "baa5f09833d49dc154e01e76be9515c4e1ae7757a2d78415eeb220b34a97db93"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "9dddeb714e7d413746bafd35c5b58ebec4c30d8934ff3763dd4c00e5ff359fa6"
 metafile = true
 
 [[files]]
@@ -48,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/iris.toml"
 hash = "00b8b522c80ea391ab2aadd3eb900a53afc9dd19e2e09159b81f0eafeaf71b18"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "1fc81c2fb496ad395c8d81c55b292f2131548d6654fc1201f79d61e1564052cd"
 metafile = true
 
 [[files]]
