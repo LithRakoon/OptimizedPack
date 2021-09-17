@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "1afa917d3c7008ddac3ee45d64647d9b479c1f9c1f7a604b30adf63fee542c0c"
+hash = "b2fde56fd79434c7463bfeab90b5058fa6ea13ffd1653797853c5aee5dc42cee"
 metafile = true
 
 [[files]]
@@ -37,12 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.toml"
-hash = "5e03c4a63495a01a572a079d93eb5e6cad12726b0c572ddaba1111f8be72a8b2"
+hash = "72a4338b738c76967bd08f1aedb2f7760afa0de1dcdad352c9604363abe1a840"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "baa5f09833d49dc154e01e76be9515c4e1ae7757a2d78415eeb220b34a97db93"
+hash = "c6db1128e617baa879273db1a3152e1b30d4e4da62a64a7fa2bd62285301b408"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "00b8b522c80ea391ab2aadd3eb900a53afc9dd19e2e09159b81f0eafeaf71b18"
+hash = "bb3a66d784d73efbbe91963f577ef3a517500053cdc0df3aac94ea1d3b9f995f"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "13b350b5401d7e5c5235e2ca3bb537cef3c908a27298d79dc822302019b34831"
+hash = "c8fecc7ed627a2881f1d28950a06d7104d262f4caf82718ca43d0c635a28266f"
 metafile = true
 
 [[files]]
