@@ -1,13 +1,13 @@
 name = "CIT Resewn"
-filename = "CITResewn-0.5.4.jar"
+filename = "CITResewn-0.7.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com//data/otVJckYQ/versions/0.5.4/CITResewn-0.5.4.jar"
+url = "https://cdn.modrinth.com/data/otVJckYQ/versions/0.7.1/CITResewn-0.7.1.jar"
 hash-format = "sha512"
-hash = "ffabbad1889404262058be528e45efa5e6aa4044687476758473261c55a0f5ee8efb1612f7dcdad2879fbf446a044307681c1158240a8b8d0fa3cba4ff2e53b9"
+hash = "c222158b5144210097afbf011bb50ab368583109f814ec5c3b431930c49f65fb184fc7705aecb1520b8226c22cfddd437e4b1921f4a848a2442165ecb4ed1f94"
 
 [update]
 [update.modrinth]
 mod-id = "otVJckYQ"
-version = "Pqmm2TG5"
+version = "DbOYaOvK"

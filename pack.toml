@@ -1,11 +1,12 @@
 name = "Optimized Pack"
 author = "Lith"
 version = "1.0.0"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5afec1a2528a352544cd23abe0549f344fa6bd8aea02f7473301d162f5537b36"
+hash = "4cf68b861cb2d3aad1cd87ebaaf294f5bc48cc7a0b03875634fe5524ebc08c02"
 
 [versions]
 fabric = "0.11.6"
