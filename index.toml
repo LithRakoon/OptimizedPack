@@ -5,38 +5,48 @@ file = "Images/Import.png"
 hash = "fb2416399e19cd1847a0d3993af89502e4d5c175f587d9430805fe1ef9c8a767"
 
 [[files]]
+file = "mods/animatica.toml"
+hash = "0f832605c4764af1bf759fd26fb11bbe23b9eb3580f75a8999d5431a0ea98738"
+metafile = true
+
+[[files]]
 file = "mods/capes.toml"
-hash = "3adc9339abe9872d3d0a7b2098f7efd1679203c204d06f4c34488a488a3d8215"
+hash = "ae4188fd623361d5dec78a2768324b6d93742e9e2d53d84a3d9366c511cbf1ca"
 metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "e3399090ebadd4ed5c6353533544a479ae532a1d12f5c6a73edfce107aec3a83"
+hash = "de7909b64bb66c887516f538e64decc7a52c29531ab6bb01f53eb2ec3557a773"
 metafile = true
 
 [[files]]
 file = "mods/clear-skies.toml"
-hash = "5717ab344e0fdeff258e2c3fa6a1421412b7bd70c32d224b4bedbde266e15de0"
+hash = "98aecb412cbe70718fd08b57b5613efa2e6a98bd6fad08983949b89d40f7ce73"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
+hash = "1bbb7759542ccebcf1d5157dd889050c371277b8d26f7c1b9b18f0968ad7c33d"
 metafile = true
 
 [[files]]
 file = "mods/colormatic.toml"
-hash = "ed3b4fe8523e09ea329c0c25d11625cc025320feebd8137b1547ef6e9360f826"
+hash = "8ce725c32e1c950da3f7f8982b3aec818c71a6d203716d8a0aca78fb01f69987"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "dc02fc9546da6c49e2d0991e7bec98a465cd88e17a5ec9e2efc806f8f1d37003"
 metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
-hash = "993aebad8c508712972999680cb2356bd3e435602535214f81ad2f2d8448fc8d"
+hash = "5a609203ae9f32d5ff7998edd49c50b2ca8d7fe28233664b5621befe87176ee2"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "3f631c9e944a855a409158820f38aba9f587fb829a45351958b18de45118b2dc"
+hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
 metafile = true
 
 [[files]]
@@ -46,12 +56,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "8db6db22ea6ebfecd19b82e2b58ab48c4c2d0ffc0069370864cc5e1d23d28413"
+hash = "76fac2cfd09d5b73e428a698f9ad1fc4e7ed59f807997d848c5bf9a5024a87ac"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "3b55a084c08b2afd69c50bb00a802abc4387ecb1ce3525fe9db36a1ade7fde9c"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.toml"
+hash = "ab3bac47276ff32079e8fefd264b09f82f4141c05a56fa009595210683194980"
 metafile = true
 
 [[files]]
@@ -62,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/hydrogen.toml"
 hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.toml"
+hash = "904467161020d5bec2f46b30a4f002b35a0e963c1a07702ab6ded60a58c6c79a"
 metafile = true
 
 [[files]]
@@ -106,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+hash = "e1aea49ed8a6f2af853793ee649e69d27d872b080c4a4a30264a42022a4eabed"
 metafile = true
 
 [[files]]
