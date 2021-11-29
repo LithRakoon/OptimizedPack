@@ -56,12 +56,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "76fac2cfd09d5b73e428a698f9ad1fc4e7ed59f807997d848c5bf9a5024a87ac"
+hash = "cd6b4dcf40fd4f48f42fd9eeb4bc2d9a1c52b90a74383907e02331b38c2fa8c0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "3b55a084c08b2afd69c50bb00a802abc4387ecb1ce3525fe9db36a1ade7fde9c"
+hash = "2b634fc55b8dbb2dd91049f60073cd2fc90ae7d26287ff34c4973fd66fb259d6"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+hash = "2b199deceff30e132074d9850f16e5ff990808eabf36a5ba95af0f521a2eb85f"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "89cbaa6645cbe11faa59add7745d1c0cd81a8af8ba9b55f3b04434e4b660b88e"
+hash = "b7ac708769978f4b8e1176ab7b5c83b2213c4edae3c5aeced6a480ce6f401535"
 metafile = true
 
 [[files]]
