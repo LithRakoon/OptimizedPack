@@ -1,0 +1,155 @@
+hash-format = "sha256"
+
+[[files]]
+file = "Images/Import.png"
+hash = "fb2416399e19cd1847a0d3993af89502e4d5c175f587d9430805fe1ef9c8a767"
+
+[[files]]
+file = "mods/animatica.toml"
+hash = "0f832605c4764af1bf759fd26fb11bbe23b9eb3580f75a8999d5431a0ea98738"
+metafile = true
+
+[[files]]
+file = "mods/capes.toml"
+hash = "ae4188fd623361d5dec78a2768324b6d93742e9e2d53d84a3d9366c511cbf1ca"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.toml"
+hash = "de7909b64bb66c887516f538e64decc7a52c29531ab6bb01f53eb2ec3557a773"
+metafile = true
+
+[[files]]
+file = "mods/clear-skies.toml"
+hash = "5b74730ae034a142c7635a5e7bbdae79f0d22c020fd5dcfbfcad6cff2f56d479"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "383fb3de64f3f7f7f37cebcdbe6ab5a8f2a9a66126e3ab3d482991c355524969"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.toml"
+hash = "8ce725c32e1c950da3f7f8982b3aec818c71a6d203716d8a0aca78fb01f69987"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "f0f72beabaa852954b913300be8c732918e39298ec00976c5138b4612477ec82"
+metafile = true
+
+[[files]]
+file = "mods/custom-entity-models-cem.toml"
+hash = "5a609203ae9f32d5ff7998edd49c50b2ca8d7fe28233664b5621befe87176ee2"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
+metafile = true
+
+[[files]]
+file = "mods/ebe.toml"
+hash = "72a4338b738c76967bd08f1aedb2f7760afa0de1dcdad352c9604363abe1a840"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "645ac8b3157f706f1fabbd8c2ef8934736758f39dd5a43f07493d8afdd7ac10b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "2b634fc55b8dbb2dd91049f60073cd2fc90ae7d26287ff34c4973fd66fb259d6"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.toml"
+hash = "ab3bac47276ff32079e8fefd264b09f82f4141c05a56fa009595210683194980"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "767eea9287ca8b5f73fc9778d8fd653ebe8118bb8734c8b370bd255c262fd210"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen.toml"
+hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.toml"
+hash = "685673b89492b4eb2372b717e38c8b2e14661821238cea5d39f883d0f47c5923"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "2b199deceff30e132074d9850f16e5ff990808eabf36a5ba95af0f521a2eb85f"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.toml"
+hash = "bce6867f72621654ca3ca06cebec58ca7ecd3d0104a20dd97e83c1aab1f9c81a"
+metafile = true
+
+[[files]]
+file = "mods/iris.toml"
+hash = "377477adaa8daad40f1749113d7d80ca2bdb7cfdd5104c26b3ac437f472706d8"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "1fc81c2fb496ad395c8d81c55b292f2131548d6654fc1201f79d61e1564052cd"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "01f54d293d1008f22f8cfc9a43b4c8e5473d882c2ed7ca667cbcf55ae4d638bc"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "e1aea49ed8a6f2af853793ee649e69d27d872b080c4a4a30264a42022a4eabed"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "b7ac708769978f4b8e1176ab7b5c83b2213c4edae3c5aeced6a480ce6f401535"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "2d9288f2235edc7ae237beaa4081a8f76e0b855e39540134462ccf2ab9752c81"
+metafile = true
+
+[[files]]
+file = "mods/recipe-cache.toml"
+hash = "f9c509d284f27cfcd06c3c7473872950eba42c539f1a516a936641419e914775"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "a0fa129729bb5d0ed3419558d2819116cc0b9d055f5f356c165207ab1762f89d"
+metafile = true
