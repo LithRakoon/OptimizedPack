@@ -21,12 +21,12 @@ metafile = true
 
 [[files]]
 file = "mods/clear-skies.toml"
-hash = "98aecb412cbe70718fd08b57b5613efa2e6a98bd6fad08983949b89d40f7ce73"
+hash = "5b74730ae034a142c7635a5e7bbdae79f0d22c020fd5dcfbfcad6cff2f56d479"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "1bbb7759542ccebcf1d5157dd889050c371277b8d26f7c1b9b18f0968ad7c33d"
+hash = "383fb3de64f3f7f7f37cebcdbe6ab5a8f2a9a66126e3ab3d482991c355524969"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "dc02fc9546da6c49e2d0991e7bec98a465cd88e17a5ec9e2efc806f8f1d37003"
+hash = "f0f72beabaa852954b913300be8c732918e39298ec00976c5138b4612477ec82"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "cd6b4dcf40fd4f48f42fd9eeb4bc2d9a1c52b90a74383907e02331b38c2fa8c0"
+hash = "645ac8b3157f706f1fabbd8c2ef8934736758f39dd5a43f07493d8afdd7ac10b"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "904467161020d5bec2f46b30a4f002b35a0e963c1a07702ab6ded60a58c6c79a"
+hash = "685673b89492b4eb2372b717e38c8b2e14661821238cea5d39f883d0f47c5923"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "bb3a66d784d73efbbe91963f577ef3a517500053cdc0df3aac94ea1d3b9f995f"
+hash = "377477adaa8daad40f1749113d7d80ca2bdb7cfdd5104c26b3ac437f472706d8"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "374c4eb4d5733928e6a3aed28625bb28f6e2bcb1f17a2077577ab555e2b37c94"
+hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
 metafile = true
 
 [[files]]
