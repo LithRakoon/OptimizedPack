@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitattributes"
-hash = "2b4a36b3152af89c2af116c71c13e3d20ee2acb0c8cbc4b468d8e2d388727ae0"
-
-[[files]]
-file = ".gitignore"
-hash = "7a1d1aae5bdae62252a465dc00a6a10db05c5cc0eca08079ac641d6028ee539c"
-
-[[files]]
 file = "mods/capes.toml"
 hash = "0558a18a45d22920baa6b9f6103b8d18480ef4f5e7aaee767c17796107b2b054"
 metafile = true
@@ -107,11 +99,3 @@ metafile = true
 file = "mods/recipe-cache.toml"
 hash = "cd4b936dd60465bd7ab3f739a233bcf770d0a7d0bc7b3ef96292b6bf9348ad3d"
 metafile = true
-
-[[files]]
-file = "packwiz"
-hash = "b6be65c903371b7a2f3858ad813d315202dcbaa136ea78196ba555ce3bd1dfaf"
-
-[[files]]
-file = "sodium-fabric-mc1.18.1-rc1-0.4.0-alpha5+build.813.jar"
-hash = "31d5602a7bceacdddaf5ddac7f5d56c27eae445993d9ca3c98efbf4e9753d6d7"

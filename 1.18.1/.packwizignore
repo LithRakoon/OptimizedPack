@@ -1,0 +1,15 @@
+.git/**
+.gitattributes
+.gitignore
+.idea/**
+README.md
+index.html
+.gitattributes
+packwiz
+.modpack/**
+idea/**
+modpack/**
+images/**
+.images/**
+Images/**
+.Images/**
