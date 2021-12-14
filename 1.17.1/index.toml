@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Images/Import.png"
-hash = "fb2416399e19cd1847a0d3993af89502e4d5c175f587d9430805fe1ef9c8a767"
-
-[[files]]
 file = "mods/animatica.toml"
 hash = "0f832605c4764af1bf759fd26fb11bbe23b9eb3580f75a8999d5431a0ea98738"
 metafile = true
